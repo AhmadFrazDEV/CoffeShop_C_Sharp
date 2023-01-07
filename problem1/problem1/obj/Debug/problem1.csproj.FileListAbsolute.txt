@@ -1,0 +1,14 @@
+F:\BS CS Second Semester\OOP\Week 5\Week 5\problem1\problem1\bin\Debug\problem1.exe.config
+F:\BS CS Second Semester\OOP\Week 5\Week 5\problem1\problem1\bin\Debug\problem1.exe
+F:\BS CS Second Semester\OOP\Week 5\Week 5\problem1\problem1\bin\Debug\problem1.pdb
+F:\BS CS Second Semester\OOP\Week 5\Week 5\problem1\problem1\obj\Debug\problem1.csproj.AssemblyReference.cache
+F:\BS CS Second Semester\OOP\Week 5\Week 5\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+F:\BS CS Second Semester\OOP\Week 5\Week 5\problem1\problem1\obj\Debug\problem1.exe
+F:\BS CS Second Semester\OOP\Week 5\Week 5\problem1\problem1\obj\Debug\problem1.pdb
+B:\C# Projects\VIVA\cofeeShop\problem1\problem1\bin\Debug\problem1.exe.config
+B:\C# Projects\VIVA\cofeeShop\problem1\problem1\bin\Debug\problem1.exe
+B:\C# Projects\VIVA\cofeeShop\problem1\problem1\bin\Debug\problem1.pdb
+B:\C# Projects\VIVA\cofeeShop\problem1\problem1\obj\Debug\problem1.csproj.AssemblyReference.cache
+B:\C# Projects\VIVA\cofeeShop\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+B:\C# Projects\VIVA\cofeeShop\problem1\problem1\obj\Debug\problem1.exe
+B:\C# Projects\VIVA\cofeeShop\problem1\problem1\obj\Debug\problem1.pdb

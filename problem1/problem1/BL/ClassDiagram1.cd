@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biling_system_version_2_using_lists.BL.Credencials">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Credencial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biling_system_version_2_using_lists.BL.admin_data_credentials">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAABAgAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Credencial.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Credencials" />
+      <Property Name="MenuItem" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Biling_system_version_2_using_lists.BL.MenuItem">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Credencial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
